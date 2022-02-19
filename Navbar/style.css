@@ -120,9 +120,6 @@ nav{
 ////////////
 */
 @media (max-width: 999px) {
-    body{
-        overflow-x: hidden;      
-    }
     .logo{
         font-size: 18px;
     }
